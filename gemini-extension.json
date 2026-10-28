@@ -1,0 +1,11 @@
+{
+  "name": "onstage",
+  "version": "1.0.0",
+  "description": "Plan church events with OnStage: see who serves where, search songs, run reports and add events and songs from Gemini CLI.",
+  "mcpServers": {
+    "onstage": {
+      "httpUrl": "https://api.on-stage.app/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
